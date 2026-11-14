@@ -1,0 +1,10 @@
+{
+  "name": "gifts-coi-register",
+  "private": true,
+  "description": "Gifts, hospitality and conflicts of interest register for Google Sheets (Apps Script)",
+  "scripts": {
+    "test": "node --test tests/register.test.js",
+    "sample": "node scripts/export-sample.js"
+  },
+  "license": "MIT"
+}
